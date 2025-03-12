@@ -4,7 +4,7 @@
 
 Le projet MinilibC consiste à recréer une partie de la bibliothèque standard de C en x86-64 Assembly. L'objectif est de créer une bibliothèque ELF dynamique (libasm.so) permettant de remplacer certaines fonctions standard via LD_PRELOAD.
 
-Compilation
+## Compilation
 
 Le projet est compilé avec un Makefile, qui inclut les règles suivantes :
 
